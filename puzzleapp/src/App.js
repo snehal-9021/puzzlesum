@@ -137,6 +137,7 @@ export default function App() {
 
   return (
     <div className="App">
+      <h1>Puzzle</h1>
       {<h3>Moves: {moves}</h3>}
       <div
         style={{
